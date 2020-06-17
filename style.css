@@ -207,7 +207,7 @@
         font-size: 34px;
         position: absolute;
         top: 7%;
-        left: 50%;
+        left: 20%;
         text-align: center;
         transform: translate(-50%, -20%);
         background: linear-gradient(to left, #87c7df, #648896);
@@ -217,7 +217,7 @@
     
     .s1  h1 {
         top: 25%;
-        left: 45%;
+        left: 25%;
         text-align: center;
         transform: translate(-25%, -25%);
         background: linear-gradient(to left, #87c7df, #648896);
