@@ -51,7 +51,7 @@
     font-size: 64px;
     position: absolute;
     top: 20%;
-    left: 10%;
+    left: 5%;
     font-weight: 700;
  
     transform: translate(-50%, -25%);
@@ -67,7 +67,7 @@
     left: 23%;
     z-index: 1; */
     top: 35%;
-    left: 15%;
+    left: 5%;
     transform: translate(-35%, -20%);
     background: linear-gradient(to left, #87c7df, #648896);
     -webkit-background-clip: text;
