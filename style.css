@@ -53,7 +53,7 @@
     top: 20%;
     font-weight: 700;
  
-    transform: translate(-50%, -20%);
+    transform: translate(-50%, -25%);
     background: linear-gradient(to left, #87c7df, #648896);
 
     -webkit-background-clip: text;
@@ -66,8 +66,8 @@
     left: 23%;
     z-index: 1; */
     top: 35%;
-    left: 20%;
-    transform: translate(-50%, -20%);
+    left: 25%;
+    transform: translate(-35%, -20%);
     background: linear-gradient(to left, #87c7df, #648896);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
