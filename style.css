@@ -209,7 +209,7 @@
         top: 7%;
         left: 5%;
         text-align: center;
-        transform: translate(-50%, -20%);
+        transform: translate(-50%, -5%);
         background: linear-gradient(to left, #87c7df, #648896);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
@@ -219,7 +219,7 @@
         top: 25%;
         left: 5%;
         text-align: center;
-        transform: translate(-25%, -25%);
+        transform: translate(-25%, -5%);
         background: linear-gradient(to left, #87c7df, #648896);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
