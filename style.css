@@ -217,7 +217,7 @@
     
     .s1  h1 {
         top: 25%;
-        left: 25%;
+        left: 0%;
         text-align: center;
         transform: translate(-25%, -25%);
         background: linear-gradient(to left, #87c7df, #648896);
@@ -228,7 +228,7 @@
     .s1 h3 {
         font-size: 20px;
         top: 50%;
-    left: 15%;
+    left: 5%;
     position: absolute;
     text-align: center;
     font-family: 'ABeeZee', sans-serif;
