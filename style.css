@@ -65,10 +65,8 @@
     top: 35%;
     left: 23%;
     z-index: 1; */
-   
-  
-    right: 45%;
-    position: absolute;
+    top: 35%;
+    left: 20%;
     transform: translate(-50%, -20%);
     background: linear-gradient(to left, #87c7df, #648896);
     -webkit-background-clip: text;
@@ -78,7 +76,7 @@
 .s1 h3 {
     font-size: 40px;
     top: 50%;
-    right: 55%;
+    left: 5%;
     position: absolute;
     font-family: 'ABeeZee', sans-serif;
     text-align: left;
@@ -93,7 +91,7 @@
     text-align: center;
     bottom: 80%;
     z-index: 1;
-   
+
     left: 15%;
     font-family: 'ABeeZee', sans-serif;
     font-family: 'Gloria Hallelujah', cursive;
@@ -209,7 +207,7 @@
         font-size: 34px;
         position: absolute;
         top: 7%;
-       
+        left: 50%;
         text-align: center;
         transform: translate(-50%, -20%);
         background: linear-gradient(to left, #87c7df, #648896);
@@ -219,7 +217,7 @@
     
     .s1  h1 {
         top: 25%;
-        left: 20%;
+        left: 45%;
         text-align: center;
         transform: translate(-25%, -25%);
         background: linear-gradient(to left, #87c7df, #648896);
@@ -228,9 +226,9 @@
     }
     
     .s1 h3 {
-     font-size: 20px;
-     top: 50%;
-    left: 40%;
+        font-size: 20px;
+        top: 50%;
+    left: 35%;
     position: absolute;
     text-align: center;
     font-family: 'ABeeZee', sans-serif;
